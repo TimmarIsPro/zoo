@@ -1,3 +1,3 @@
 # zoo
 
-AN example of how git do thing
+What happens if i edit it from github itself
